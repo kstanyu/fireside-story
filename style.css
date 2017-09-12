@@ -1,7 +1,10 @@
 body{
     color:white;
     background-color:black;
-    font-family: 'Satisfy', cursive;
+    font-family: 'Sacremento', cursive;
     margin: 5em 25%;
-    font-size: 20px;
+    font-size: 32px;
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
 }
